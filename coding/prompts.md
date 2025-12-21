@@ -60,3 +60,17 @@ Language: [LANGUAGE]
 Code:
 [INSERT CODE]
 ```
+
+## Project Exploration
+Explore a codebase to understand its structure and architecture.
+
+```
+Explore this codebase to understand its structure and architecture. I need to create a CLAUDE.md file. Please find:
+1. What type of project this is (language, framework, build system)
+2. How to build, test, and run the project
+3. The high-level architecture and code organization
+4. Any existing documentation (README.md, .cursor/rules/, .cursorrules, .github/copilot-instructions.md)
+5. Key patterns or conventions used in the codebase
+
+Be thorough - look at project configuration files, source code structure, and any existing documentation.
+```
