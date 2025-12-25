@@ -44,3 +44,51 @@ Provide:
 4. Evidence supporting your analysis
 5. Recommended corrective actions
 ```
+
+## Screenshot Analysis
+Perform detailed, pixel-perfect analysis of screenshots for UI/UX review, bug identification, or design verification.
+
+```
+Analyze this screenshot with pixel-level precision:
+
+[INSERT SCREENSHOT]
+
+Context: [PURPOSE - e.g., UI review, bug report, design verification, accessibility audit]
+
+Provide a comprehensive analysis covering:
+
+1. **Visual Inventory**
+   - All UI elements present (buttons, text, icons, images, forms)
+   - Layout structure and hierarchy
+   - Color values and typography observed
+
+2. **Pixel-Perfect Details**
+   - Alignment issues (misaligned elements, inconsistent spacing)
+   - Spacing measurements (padding, margins, gaps)
+   - Border styles, shadows, and visual effects
+   - Text rendering (font sizes, weights, line heights)
+
+3. **Visual Inconsistencies**
+   - Color mismatches or unexpected values
+   - Truncated or overlapping content
+   - Rendering artifacts or glitches
+   - Broken or missing assets
+
+4. **Interaction States** (if applicable)
+   - Current state of interactive elements
+   - Hover/focus/active indicators visible
+   - Disabled or loading states
+
+5. **Accessibility Observations**
+   - Color contrast concerns
+   - Text legibility issues
+   - Touch target sizes
+   - Missing visual indicators
+
+6. **Specific Findings**
+   - List each issue with exact location (coordinates or element reference)
+   - Severity rating (critical/major/minor/cosmetic)
+   - Suggested fix if apparent
+
+Additional focus areas: [SPECIFIC ASPECTS TO EXAMINE - e.g., header alignment, form validation states, responsive breakpoint issues]
+```
