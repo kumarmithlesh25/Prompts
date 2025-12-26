@@ -14,6 +14,8 @@ This is a curated collection of AI prompt templates organized by domain. It's a 
 - `productivity/` - Task breakdown, decision framework, meeting planning prompts
 - `research/` - Topic deep dive, literature review, fact verification prompts
 - `writing/` - Content drafting, editing, email composition prompts
+- `claude-tutorial/` - Basics of claude-code 
+
 
 ## Prompt Template Format
 
@@ -35,3 +37,8 @@ Placeholders use `[UPPERCASE]` naming to indicate where users should substitute 
 1. Place in the appropriate category folder's `prompts.md` file
 2. Follow the existing template structure with H2 heading, description, and code block
 3. Use descriptive `[PLACEHOLDER]` names for user inputs
+
+## Workflow Preferences
+
+- When adding a file, always ask first
+- When committing changes, do not include Claude references in the commit message
