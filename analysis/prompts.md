@@ -92,3 +92,60 @@ Provide a comprehensive analysis covering:
 
 Additional focus areas: [SPECIFIC ASPECTS TO EXAMINE - e.g., header alignment, form validation states, responsive breakpoint issues]
 ```
+
+## Mobile App Analysis
+Comprehensive analysis of a mobile app's UI/UX, functionality, and design quality from screenshots or App Store listing.
+
+```
+Analyze this mobile app based on the provided materials:
+
+[INSERT APP STORE LINK OR SCREENSHOTS]
+
+App Context: [APP NAME, CATEGORY, TARGET AUDIENCE]
+
+Provide a comprehensive analysis covering:
+
+1. **App Store Presence** (if link provided)
+   - App description clarity and effectiveness
+   - Rating and review sentiment summary
+   - Common user complaints and praises
+   - Update frequency and developer responsiveness
+
+2. **Visual Design Assessment**
+   - Design system consistency (colors, typography, iconography)
+   - Brand identity and visual appeal
+   - Use of whitespace and visual hierarchy
+   - Platform design guidelines adherence (iOS HIG / Material Design)
+
+3. **UX Patterns & Navigation**
+   - Navigation structure (tab bar, drawer, stack)
+   - Information architecture clarity
+   - User flow logic between screens
+   - Gesture and interaction patterns used
+
+4. **Screen-by-Screen Breakdown**
+   For each screenshot provided:
+   - Screen purpose and functionality
+   - UI elements and their arrangement
+   - Content density and readability
+   - Call-to-action clarity
+   - Potential usability issues
+
+5. **Accessibility Evaluation**
+   - Text sizes and readability
+   - Color contrast adequacy
+   - Touch target sizes (minimum 44x44pt iOS / 48x48dp Android)
+   - Support for system accessibility features (visible indicators)
+
+6. **Competitive Positioning**
+   - Strengths compared to typical apps in category
+   - Areas needing improvement
+   - Unique differentiators observed
+
+7. **Recommendations**
+   - Critical issues to address (priority order)
+   - Quick wins for improvement
+   - Feature or design suggestions
+
+Analysis focus: [SPECIFIC ASPECTS - e.g., onboarding flow, checkout experience, settings screen, dark mode implementation]
+```
